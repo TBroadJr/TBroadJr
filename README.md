@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to find my first position as an iOS Developer
 - 🤔 I’m looking for help with using advanced debugging tools
 - 💬 Ask me about topic like Swift, gaming, or personal health
-- 📫 How to reach me: [Email](tbroadjr@icloud.com) | [Twitter](https://twitter.com/TBroadJr)
+- 📫 How to reach me: Email - tbroadjr@icloud.com | [Twitter](https://twitter.com/TBroadJr)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I used to do martial arts
